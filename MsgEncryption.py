@@ -58,3 +58,5 @@ def Decrypt():
         new_message.append(chr(new_index))
     print(f"Encrypted message: {"".join(new_message)}")
     print("")
+
+Menu()
